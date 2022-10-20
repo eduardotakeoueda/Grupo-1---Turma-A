@@ -5,6 +5,8 @@ public class Jogo {
 
     System.out.println("Início da implementação do RPG...");
 
+    System.out.println("Alterei o código do projeto...");
+    
 	}
 
 }
